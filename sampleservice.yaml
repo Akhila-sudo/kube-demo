@@ -9,4 +9,4 @@ spec:
     protocol: TCP
   selector:
     app: nodejs
-  type: ClusterIP
+  type: LoadBalancer
